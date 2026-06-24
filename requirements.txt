@@ -1,5 +1,3 @@
-streamlit==1.58.0
-spacy==3.8.14
-nltk==3.9.4
-deep-translator==1.11.4
-https://github.com
+streamlit
+spacy
+https://github.com/explosion/spacy-models/releases/download/pt_core_news_sm-3.8.0/pt_core_news_sm-3.8.0.tar.gz
